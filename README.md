@@ -1,2 +1,2 @@
 # CalculatorLibraryCI
-A repository for a Continuous integration tutorial
+A repository for a Continuous integration tutorial test
